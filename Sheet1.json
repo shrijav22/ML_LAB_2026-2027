@@ -1,0 +1,82 @@
+[
+  {
+    "names": "raj",
+    "ATCD": 30,
+    "IAI": 36,
+    "JAVA": 35,
+    "DM": 36,
+    "DBMS": 36
+  },
+  {
+    "names": "sindhu",
+    "ATCD": 36,
+    "IAI": 27,
+    "JAVA": 36,
+    "DM": 39,
+    "DBMS": 32
+  },
+  {
+    "names": "madhu",
+    "ATCD": 32,
+    "IAI": 36,
+    "JAVA": 32,
+    "DM": 37,
+    "DBMS": 31
+  },
+  {
+    "names": "snigdha",
+    "ATCD": 35,
+    "IAI": 35,
+    "JAVA": 33,
+    "DM": 36,
+    "DBMS": 34
+  },
+  {
+    "names": "anu",
+    "ATCD": 38,
+    "IAI": 38,
+    "JAVA": 35,
+    "DM": 34,
+    "DBMS": 36
+  },
+  {
+    "names": "sanju",
+    "ATCD": 32,
+    "IAI": 29,
+    "JAVA": 29,
+    "DM": 32,
+    "DBMS": 30
+  },
+  {
+    "names": "dillip",
+    "ATCD": 31,
+    "IAI": 28,
+    "JAVA": 30,
+    "DM": 36,
+    "DBMS": 29
+  },
+  {
+    "names": "ram",
+    "ATCD": 30,
+    "IAI": 27,
+    "JAVA": 21,
+    "DM": 39,
+    "DBMS": 28
+  },
+  {
+    "names": "krishna",
+    "ATCD": 29,
+    "IAI": 33,
+    "JAVA": 32,
+    "DM": 31,
+    "DBMS": 26
+  },
+  {
+    "names": "john",
+    "ATCD": 25,
+    "IAI": 38,
+    "JAVA": 22,
+    "DM": 32,
+    "DBMS": 25
+  }
+]
